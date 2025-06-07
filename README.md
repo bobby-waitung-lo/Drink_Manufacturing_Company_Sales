@@ -20,9 +20,9 @@ An .xlsx file of the sales of a drink manufacturing company including informatio
   
 ### Project Business Questions:
 1. Which region or country has the highest sales, and how does it compare to others?  
-2. Which customer group has the highest sales?  
-3. Who are the top sales managers in different regions and the whole company?  
-4. What is the profit comparing to the cost among the top sale drinks?  
+2. Which customer group generates the most sales?  
+3. Who are the top sales managers in different regions and across the entire company?  
+4. What is the profit comparing to the cost among the top-selling drinks?  
 5. What is the overall trend of sales and profits of the company, and how is the company performing?  
 
   
