@@ -1,4 +1,4 @@
-# Drinks_manufacturing_Company_Sales
+# Drink_Manufacturing_Company_Sales
 ![dashboard](https://github.com/user-attachments/assets/33c0a4c5-71d0-4b7c-8bb7-d7a9a74ae440)
 
 ### Project Description:
