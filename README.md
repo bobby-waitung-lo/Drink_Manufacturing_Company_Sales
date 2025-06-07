@@ -1,4 +1,5 @@
 # Drinks_manufacturing_Company_Sales
+![dashboard](https://github.com/user-attachments/assets/33c0a4c5-71d0-4b7c-8bb7-d7a9a74ae440)
 
 ### Project Description:
 This a data analytics project investigating the sales of a drink manufacturing company to answer a number of business questions.  
@@ -10,7 +11,7 @@ Power BI, Power Query, DAX, Data Preparation, Data Transformation, Data Modeling
   
 ### Files:
 Dataset: Data - Participants.xlsx
-Power BI file: Drink Sales.pbix
+Power BI file: Drink Sales Dashboard.pbix
 Dashboard Screenshot: dashboard.jpg  
 
 ### Dataset Description:
