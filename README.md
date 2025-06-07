@@ -5,7 +5,7 @@
 This a data analytics project investigating the sales of a drink manufacturing company to answer a number of business questions.  
 
   
-### Skilss showcase:
+### Skills Showcase:
 Power BI, Power Query, DAX, Data Preparation, Data Transformation, Data Modeling, Data Analysis, Data Visualization  
 
   
